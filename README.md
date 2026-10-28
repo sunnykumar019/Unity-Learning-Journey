@@ -1,2 +1,9 @@
 # Unity-Learning-Journey
-Collection of games and prototypes built during my Unity game development course, practicing core mechanics and C# scripting
+### 🎮 Project 1: Delivery Dash
+- **Course:** Complete C# Unity Game Developer (Udemy) by [GameDev.tv](https://www.gamedev.tv/)
+- **Engine:** Unity
+- **Concepts Learned:** 
+  - Top-down 2D car movement & steering physics
+  - Collision detection & Trigger events (`OnTriggerEnter2D`)
+  - Package pickup and customer delivery mechanics
+  - Sprite color changing logic & driver speed boosts
